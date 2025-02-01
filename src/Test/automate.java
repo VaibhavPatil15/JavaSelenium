@@ -3,7 +3,7 @@ package Test;
 public class automate {
 
 	public static void main(String[] args) {
-		System.out.println("HelloWorld, Vaibhav here ");
+		System.out.println("lastet Commit");
 
 	}
 
